@@ -10,3 +10,5 @@ def life_of_mani(age):
         print("kowsalya")
     return True
 print(life_of_mani(age))
+
+
