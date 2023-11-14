@@ -9,3 +9,4 @@ def fabnocci(n):
 generator=fabnocci(10)
 print(next(generator))
 print(next(generator))
+
